@@ -1,32 +1,16 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Portfolio Website
+This is the personal portfolio website of Aric Sharma
 
+🗂️ Features
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+- Landing Page: Highlights selected projects with brief summaries, images, and GitHub links.
+- Project Sections: Covers Python, SQL, AI, and Tableau projects with dedicated write-ups.
+- Resume Page: Summarizes education, experience, and skills.
+- Navigation: Includes links to LinkedIn, GitHub, and Tableau dashboards.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+🛠️ Tech Stack
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- HTML5 & CSS3 – Structure and styling
+- JavaScript – Smooth scrolling and interactivity
+- Font Awesome – Social icons
+- GitHub Pages – Hosting
